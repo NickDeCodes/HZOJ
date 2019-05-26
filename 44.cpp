@@ -7,9 +7,6 @@
 
 #include <iostream>
 using namespace std;
-using std::cin;
-using std::cout;
-using std::endl;
 
 #define MAX_N 1000000
 int dp[MAX_N + 5];
