@@ -7,9 +7,6 @@
 
 #include <iostream>
 using namespace std;
-using std::cin;
-using std::cout;
-using std::endl;
 
 #define MAX_N 10000
 #define MAX_V 1000000
