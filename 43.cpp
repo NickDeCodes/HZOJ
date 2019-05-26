@@ -7,9 +7,6 @@
 
 #include <iostream>
 using namespace std;
-using std::cin;
-using std::cout;
-using std::endl;
 
 #define MAX_N 1000
 int f[MAX_N + 5][MAX_N + 5];
