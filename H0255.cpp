@@ -6,6 +6,7 @@
  ************************************************************************/
 
 #include <iostream>
+#include <algorithm>
 #include <cmath>
 using namespace std;
 #define MAX_N 1000
